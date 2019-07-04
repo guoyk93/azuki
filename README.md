@@ -1,5 +1,7 @@
 # Azuki
 
+[![Build Status](https://travis-ci.org/guoyk93/azuki.svg?branch=master)](https://travis-ci.org/guoyk93/azuki)
+
 ```xml
 <dependency>
   <groupId>net.guoyk</groupId>
@@ -10,7 +12,7 @@
 
 Azuki is a simple Java Map evaluation tool
 
-# Example
+## Example
 
 Create a `Expression` using `Azuki.build(Object)`, passing a Map like this
 
@@ -58,9 +60,9 @@ and returns `false` in this case.
 
 **All Expressions Can be Infinitely Nested**
 
-# Supported Expressions
+## Supported Expressions
 
-## Evaluation Expressions
+### Evaluation Expressions
 
 Evaluation Expressions is presented as a Map, it execute the actual evaluation.
 
@@ -93,7 +95,7 @@ This will check existence of `key1-3` and non-existence of `key4-6`
 
 string starts with `f`, `n` will be regarded as non-existence validation.
 
-## Combination Expressions
+### Combination Expressions
 
 Combination Expressions accept a array of expressions, used for combination
 
@@ -101,12 +103,12 @@ Combination Expressions accept a array of expressions, used for combination
 * any
 * none
 
-## Wrapper Expressions
+### Wrapper Expressions
 
 Wrapper Expressions wraps one single expression, basically for `not` operation
 
 * not
 
-# Credits
+## Credits
 
 Guo Y.K., MIT License
