@@ -24,7 +24,7 @@
 
     <groupId>net.guoyk</groupId>
     <artifactId>azuki</artifactId>
-    <version>1.1</version>
+    <version>1.1.0</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>A simple Java Map evaluation tool</description>
