@@ -112,7 +112,7 @@
                             </execution>
                         </executions>
                         <configuration>
-                            <keyname>0EA81FE4C3534CBCF68308B248E46D23EE7D5285</keyname>
+                            <keyname>640D45D4EB5992B2CA43346DA502B898D0CB498D</keyname>
                         </configuration>
                     </plugin>
                     <plugin>
