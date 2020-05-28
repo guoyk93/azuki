@@ -1,5 +1,6 @@
 # Azuki
 
+[![BMC Donate](https://img.shields.io/badge/BMC-Donate-orange)](https://www.buymeacoffee.com/vFa5wfRq6)
 [![Build Status](https://travis-ci.org/guoyk93/azuki.svg?branch=master)](https://travis-ci.org/guoyk93/azuki)
 ![GitHub](https://img.shields.io/github/license/guoyk93/azuki.svg)
 
